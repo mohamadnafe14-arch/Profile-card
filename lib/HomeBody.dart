@@ -21,7 +21,7 @@ class Homebody extends StatelessWidget {
               ),
             ),
             Text(
-              "Mohamed Abdelrahman",
+              "Mohamed Nafe",
               style: TextStyle(
                 fontFamily: "Pacifico",
                 fontSize: 26,
@@ -57,7 +57,7 @@ class Homebody extends StatelessWidget {
                   borderRadius: BorderRadiusGeometry.circular(20),
                 ),
                 leading: Icon(Icons.email, size: 30),
-                title: Text("mnafe44@gmail.com"),
+                title: Text("mohamadnafe14@gmail.com"),
               ),
             ),
           ],
