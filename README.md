@@ -1,5 +1,9 @@
 # Profile Card - Flutter Application 🎨
-
+![GitHub stars](https://img.shields.io/github/stars/mohamadnafe14-arch/Profile-card?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mohamadnafe14-arch/Profile-card?style=social)
+![GitHub issues](https://img.shields.io/github/issues/mohamadnafe14-arch/Profile-card)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mohamadnafe14-arch/Profile-card)
+![GitHub last commit](https://img.shields.io/github/last-commit/mohamadnafe14-arch/Profile-card)
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
